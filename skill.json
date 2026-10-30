@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-blood-viscosity-shear-rate-cardiovascular-skill",
+  "version": "1.0.0",
+  "title": "Whole Blood & Plasma Viscosity Shear-Rate Cardiovascular Risk Skill",
+  "category": "Personal Agent (Bio / Hemorheology & Vascular Flow)",
+  "description": "Calculates high shear rate (300 s^-1) and low shear rate (5 s^-1) blood viscosity, hematocrit-to-viscosity ratio, and endothelial shear stress to preempt microvascular thrombosis and hypertension.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_blood_viscosity_shear_rate"
+  ],
+  "dependencies": []
+}
